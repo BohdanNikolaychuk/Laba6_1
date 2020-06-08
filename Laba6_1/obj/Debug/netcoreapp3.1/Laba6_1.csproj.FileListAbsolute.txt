@@ -1,0 +1,11 @@
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\bin\Debug\netcoreapp3.1\Laba6_1.exe
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\bin\Debug\netcoreapp3.1\Laba6_1.deps.json
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\bin\Debug\netcoreapp3.1\Laba6_1.runtimeconfig.json
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\bin\Debug\netcoreapp3.1\Laba6_1.runtimeconfig.dev.json
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\bin\Debug\netcoreapp3.1\Laba6_1.dll
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\bin\Debug\netcoreapp3.1\Laba6_1.pdb
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\obj\Debug\netcoreapp3.1\Laba6_1.csprojAssemblyReference.cache
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\obj\Debug\netcoreapp3.1\Laba6_1.AssemblyInfoInputs.cache
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\obj\Debug\netcoreapp3.1\Laba6_1.AssemblyInfo.cs
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\obj\Debug\netcoreapp3.1\Laba6_1.dll
+C:\Users\Lenovo1\source\repos\Laba6_1\Laba6_1\obj\Debug\netcoreapp3.1\Laba6_1.pdb
